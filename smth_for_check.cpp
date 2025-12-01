@@ -7,5 +7,7 @@ int main() {
     cout << "Hello, world!123" << endl;
     tytyt
     erere
+    tyty
+    yuy
     return 0;
 }
